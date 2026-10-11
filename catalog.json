@@ -1,0 +1,104 @@
+{
+  "edition": "first-edition-2026.10",
+  "visibility": "public",
+  "code_licence": "MIT; third-party materials retain their own terms",
+  "scope": "Source code only. Book chapters, exercise prose, written solutions and reader guide are sold separately. Chapter32 is a prose workshop in the paid guide.",
+  "repositories": [
+    {
+      "chapter": "33",
+      "repository": "reservation-payments",
+      "public_repository": "reservation-payments-code",
+      "url": "https://github.com/TheStaffAndroidEngineer/reservation-payments-code",
+      "release_commit": "2cdaf42c8a234543ae524fa0d53ad3bc794fda4c",
+      "tag": "first-edition-2026.10"
+    },
+    {
+      "chapter": "34",
+      "repository": "live-location",
+      "public_repository": "live-location-code",
+      "url": "https://github.com/TheStaffAndroidEngineer/live-location-code",
+      "release_commit": "c3066e8e9a370025da65ab538bf8a281a116e0da",
+      "tag": "first-edition-2026.10"
+    },
+    {
+      "chapter": "35",
+      "repository": "messaging",
+      "public_repository": "messaging-code",
+      "url": "https://github.com/TheStaffAndroidEngineer/messaging-code",
+      "release_commit": "6b1013ce1b83461124d97cb8e55733e200a32364",
+      "tag": "first-edition-2026.10"
+    },
+    {
+      "chapter": "36",
+      "repository": "social-feed",
+      "public_repository": "social-feed-code",
+      "url": "https://github.com/TheStaffAndroidEngineer/social-feed-code",
+      "release_commit": "83fc116efed01403339b47b28a48db4bd5e26c25",
+      "tag": "first-edition-2026.10"
+    },
+    {
+      "chapter": "37",
+      "repository": "media-library",
+      "public_repository": "media-library-code",
+      "url": "https://github.com/TheStaffAndroidEngineer/media-library-code",
+      "release_commit": "7bb6e69a0cdfe9d4305cb09b81fc5dcab6e07d1e",
+      "tag": "first-edition-2026.10"
+    },
+    {
+      "chapter": "38",
+      "repository": "realtime-calls",
+      "public_repository": "realtime-calls-code",
+      "url": "https://github.com/TheStaffAndroidEngineer/realtime-calls-code",
+      "release_commit": "c5511196faba20c32ef3ccc642b3cb930436d65c",
+      "tag": "first-edition-2026.10"
+    },
+    {
+      "chapter": "39",
+      "repository": "collaborative-notes",
+      "public_repository": "collaborative-notes-code",
+      "url": "https://github.com/TheStaffAndroidEngineer/collaborative-notes-code",
+      "release_commit": "6c56c4bf4d800bb37adf167e078eb7957e631a6f",
+      "tag": "first-edition-2026.10"
+    },
+    {
+      "chapter": "40",
+      "repository": "resumable-transfer",
+      "public_repository": "resumable-transfer-code",
+      "url": "https://github.com/TheStaffAndroidEngineer/resumable-transfer-code",
+      "release_commit": "d3a8b75b3c80e83e997186fad3c9a019ca49ff32",
+      "tag": "first-edition-2026.10"
+    },
+    {
+      "chapter": "41",
+      "repository": "backend-scale",
+      "public_repository": "backend-scale-code",
+      "url": "https://github.com/TheStaffAndroidEngineer/backend-scale-code",
+      "release_commit": "11ed5a19b886b39508cd4da696506159f41935c1",
+      "tag": "first-edition-2026.10"
+    },
+    {
+      "chapter": "42",
+      "repository": "connected-device",
+      "public_repository": "connected-device-code",
+      "url": "https://github.com/TheStaffAndroidEngineer/connected-device-code",
+      "release_commit": "c309d2d4635111e9437c256f18c21c4131b07aff",
+      "tag": "first-edition-2026.10"
+    },
+    {
+      "chapter": "43",
+      "repository": "camera-pipeline",
+      "public_repository": "camera-pipeline-code",
+      "url": "https://github.com/TheStaffAndroidEngineer/camera-pipeline-code",
+      "release_commit": "01e84c41658cfb4b4961b324b61b6752aa092846",
+      "tag": "first-edition-2026.10"
+    },
+    {
+      "chapter": "44",
+      "repository": "ai-assistant",
+      "public_repository": "ai-assistant-code",
+      "url": "https://github.com/TheStaffAndroidEngineer/ai-assistant-code",
+      "release_commit": "2cbba07a6215224f83098e5a6aaae2b9717322f6",
+      "tag": "first-edition-2026.10"
+    }
+  ]
+}
